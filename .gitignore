@@ -1,0 +1,36 @@
+# Data files (too large for GitHub)
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Tool directories
+.understand-anything/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model checkpoints
+*.pt
+*.pth
+*.bin
+*.onnx
+
+# Logs
+*.log
